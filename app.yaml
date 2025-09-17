@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: php-api
+owner: nimitbhagat
+package: .
+scaling:
+  mode: single_concurrency
